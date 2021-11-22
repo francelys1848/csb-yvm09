@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://francelys1848.github.io/csb-yvm09/static/css/main.8baa743b.chunk.css",
+    "main.js": "https://francelys1848.github.io/csb-yvm09/static/js/main.3a604511.chunk.js",
+    "main.js.map": "https://francelys1848.github.io/csb-yvm09/static/js/main.3a604511.chunk.js.map",
+    "runtime-main.js": "https://francelys1848.github.io/csb-yvm09/static/js/runtime-main.fba890de.js",
+    "runtime-main.js.map": "https://francelys1848.github.io/csb-yvm09/static/js/runtime-main.fba890de.js.map",
+    "static/js/2.12508a37.chunk.js": "https://francelys1848.github.io/csb-yvm09/static/js/2.12508a37.chunk.js",
+    "static/js/2.12508a37.chunk.js.map": "https://francelys1848.github.io/csb-yvm09/static/js/2.12508a37.chunk.js.map",
+    "index.html": "https://francelys1848.github.io/csb-yvm09/index.html",
+    "static/css/main.8baa743b.chunk.css.map": "https://francelys1848.github.io/csb-yvm09/static/css/main.8baa743b.chunk.css.map",
+    "static/js/2.12508a37.chunk.js.LICENSE.txt": "https://francelys1848.github.io/csb-yvm09/static/js/2.12508a37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fba890de.js",
+    "static/js/2.12508a37.chunk.js",
+    "static/css/main.8baa743b.chunk.css",
+    "static/js/main.3a604511.chunk.js"
+  ]
+}
